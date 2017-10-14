@@ -77,7 +77,7 @@
 # Unix line endings (\n)
 # $Id: //main/2015/qhull/Makefile#10 $
 
-DESTDIR = /usr/local
+DESTDIR = /home/shartep/.heroku/ghull
 BINDIR	= $(DESTDIR)/bin
 INCDIR	= $(DESTDIR)/include
 LIBDIR	= $(DESTDIR)/lib
